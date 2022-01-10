@@ -167,6 +167,12 @@ a:focus {
 	font-weight:500;
 	display:inline-block;
 }
+.skill_list{
+  margin-left: 1em;
+}
+.nextelement{
+  float: inline-end;
+}
 .progressy1,.progressy2,.progressy3,.progressy4,.progressy6,.progressy7{
 	width:60%;
 	float:left;
